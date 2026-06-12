@@ -8,3 +8,4 @@ results/report.md
 *.suo
 .vs/
 .idea/
+scripts/__pycache__/
