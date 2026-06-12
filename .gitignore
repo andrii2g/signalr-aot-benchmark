@@ -1,0 +1,10 @@
+bin/
+obj/
+artifacts/
+logs/
+results/*.json
+results/report.md
+*.user
+*.suo
+.vs/
+.idea/

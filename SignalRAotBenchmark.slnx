@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/bench/">
+    <Project Path="bench/Chat.LoadClient/Chat.LoadClient.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Chat.Aot.Web/Chat.Aot.Web.csproj" />
+    <Project Path="src/Chat.Jit.Web/Chat.Jit.Web.csproj" />
+    <Project Path="src/Chat.Shared/Chat.Shared.csproj" />
+  </Folder>
+</Solution>
